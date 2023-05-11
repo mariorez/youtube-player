@@ -4,8 +4,7 @@ Designed for OBS Browser source to display/play a song/playlist fully automaticl
 
 ## Usage : add ? at the end of the link and copy Youtube link from "watch?v=XXXXX" or "watch?v=XXXXX&list=XXXXX")
 
-exemple : https://mariorez.github.io/OBS-Youtube-Player/?watch?v=lSqnqSSXTUI&list=RDlSqnqSSXTUI&volume=10&random=true&loop=true
-
+exemple : https://mariorez.github.io/youtube-player/?watch?v=H59bAAJyVjc&list=PL3wn4S23QM9jxgFPGJ4DIGsynrco1VrzQ&index=1&controls=true
 ## Tutorial (video with subtitles instructions): https://youtu.be/y8VerA88A6U
 
 ## Features :
